@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Moosic",
+  "orientation": "portrait",
+  "scope": "/https://moosic-black.vercel.app/",
+  "short_name": "Moo",
+  "start_url": "/https://moosic-black.vercel.app/",
+  "theme_color": "#ffffff",
+  "description": "...",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "music"
+  ]
+}
