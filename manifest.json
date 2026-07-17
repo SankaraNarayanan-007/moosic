@@ -1,19 +1,24 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#120000",
   "dir": "ltr",
   "display": "fullscreen",
   "name": "Moosic",
   "orientation": "portrait",
-  "scope": "/https://moosic-black.vercel.app/",
-  "short_name": "Moo",
-  "start_url": "/https://moosic-black.vercel.app/",
-  "theme_color": "#ffffff",
-  "description": "...",
+  "scope": "/",
+  "short_name": "Moo..",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "Sn.Moosicapp",
+  "description": "Hit Play and Enjoy....",
   "lang": "en",
-  "display_override": [
-    "window-controls-overlay"
-  ],
   "categories": [
     "music"
-  ]
+  ],
+  "icons":[
+   {
+   "src":"icon-512.png",
+   "sizes":"512x512",
+   "type":"image/png"
+}
+]
 }
